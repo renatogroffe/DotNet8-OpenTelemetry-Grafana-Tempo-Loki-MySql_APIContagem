@@ -83,4 +83,4 @@ services:
       MYSQL_ROOT_PASSWORD: "MySql2024!"
       MYSQL_DATABASE: "basecontagem"
     ports:
-      - "33306:3306"
+      - "3306:3306"
